@@ -9,7 +9,6 @@ Data Scientist · ML/AI Engineer · Data Analyst — turning raw data into decis
 
 I'm a dual-degree graduate (MSc @ Aston University + BE Computer Science @ JSS University) with hands-on experience in machine learning, deep learning, NLP, and business intelligence. I build end-to-end data pipelines, train and deploy ML models, and create interactive dashboards — applying AI to solve real problems in finance, healthcare, and legal tech.
 
-- 📍 Based in Birmingham, UK
 - 🎓 Currently pursuing **MSc Information Systems & Business Analysis** at Aston University — modules include **Machine Learning for Business Analytics, AI for Business, Advanced Databases**
 - 🔬 Published **2 research papers** on Facial Emotion Recognition (CNN/Deep Learning) in IJRAR
 - 🤖 Built production ML systems: RAG pipelines, fraud detection models, computer vision classifiers
@@ -107,7 +106,7 @@ I'm a dual-degree graduate (MSc @ Aston University + BE Computer Science @ JSS U
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Parth%20Sharma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-sharma)
-[![Email](https://img.shields.io/badge/Email-sharmaparthji%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sharmaparthji@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sharmaparthfresher%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sharmaparthji@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-parth163tar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/parth163tar)
 
 ---

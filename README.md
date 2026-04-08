@@ -105,7 +105,7 @@ I'm a dual-degree graduate (MSc @ Aston University + BE Computer Science @ JSS U
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Parth%20Sharma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-sharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Parth%20Sharma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth163)
 [![Email](https://img.shields.io/badge/Email-sharmaparthfresher%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sharmaparthji@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-parth163tar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/parth163tar)
 
